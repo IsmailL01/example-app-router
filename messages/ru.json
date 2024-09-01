@@ -1,0 +1,47 @@
+{
+  "Error": {
+    "description": "<p>Es ist leider ein Problem aufgetreten.</p><p>Du kannst versuchen <retry>diese Seite neu zu laden</retry>.</p>",
+    "title": "Etwas ist schief gelaufen!"
+  },
+  "IndexPage": {
+    "description": "Dies ist ein Beispiel, das die Verwendung von <code>next-intl</code> mit dem Next.js App Router demonstriert. Bei Ändern der Sprache rechts oben ändert sich der Inhalt dieser Seite.",
+    "title": "next-intl Beispiel"
+  },
+  "LocaleLayout": {
+    "title": "next-intl Beispiel"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, ru {🇩🇪 Russia} en {🇺🇸 English} other {Unbekannt}}"
+  },
+  "Manifest": {
+    "description": "",
+    "name": ""
+  },
+  "Navigation": {
+    "home": "Start",
+    "pathnames": "Pfadnamen"
+  },
+  "NotFoundPage": {
+    "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+    "title": "Seite nicht gefunden"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Erfahre mehr über next-intl in der offiziellen Dokumentation.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Dokumentation"
+      },
+      "source": {
+        "description": "Sieh dir den Quellcode dieses Beispiels auf GitHub an.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Quellcode"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>Привет всем</p>",
+    "title": "Pfadnamen"
+  }
+}
